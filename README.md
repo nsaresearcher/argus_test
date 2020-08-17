@@ -27,7 +27,7 @@ Do the following steps to use  argus_test application.
 
 > sudo ldconfig /usr/local/lib
 
-# 2. Build library and executable files for arus_test
+# 2. Build library and executable files for argus_test
 > cd <path-to-"argus_test_project/CMakeList.txt">
 
 > mkdir build
