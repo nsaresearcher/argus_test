@@ -29,10 +29,15 @@ Do the following steps to use  argus_test application.
 
 # 2. Build library
 > cd <path-to-"argus_test_project/CMakeList.txt">
+
 > mkdir build
+
 > cd build/
+
 > cmake ..
+
 > make
 
 # 3. Enjoy! :)
+
 > ./argus_test
