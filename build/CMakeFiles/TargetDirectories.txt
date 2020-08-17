@@ -1,4 +1,0 @@
-/home/svetlana/Documents/argus_test/build/CMakeFiles/rebuild_cache.dir
-/home/svetlana/Documents/argus_test/build/CMakeFiles/edit_cache.dir
-/home/svetlana/Documents/argus_test/build/CMakeFiles/cip.dir
-/home/svetlana/Documents/argus_test/build/CMakeFiles/argus_test.dir
